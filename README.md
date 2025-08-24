@@ -1,5 +1,5 @@
 # Designing-of-HVAC-system-for-Mechanical-Hall
-This report presents a thorough examination and design proposal for the HVAC system designated for  the Mechanical Hall at MUST. The focus is on achieving optimal indoor environmental conditions  through rooftop installation and ducted chilled air supply. 
+
 This report presents a thorough examination and design proposal for the HVAC system designated for 
 
 the Mechanical Hall at MUST. The focus is on achieving optimal indoor environmental conditions 
